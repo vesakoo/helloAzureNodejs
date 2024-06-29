@@ -1,0 +1,19 @@
+{
+  "name": "helloazurenodejs",
+  "version": "1.0.0",
+  "description": "helloazurefunc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesakoo/helloAzureNodejs.git"
+  },
+  "author": "Vka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesakoo/helloAzureNodejs/issues"
+  },
+  "homepage": "https://github.com/vesakoo/helloAzureNodejs#readme"
+}
